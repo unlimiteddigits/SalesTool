@@ -11,5 +11,7 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("Hello Happy Sales People");
 		System.out.println("This app shows Sales Data");
+		
+		
 	}
 }
