@@ -13,8 +13,8 @@ public class Main {
 		System.out.println("Hello Happy Sales People");
 		System.out.println("This app shows Sales Data");
 
-		System.out.println("Test 1");
-		
+		System.out.println("Test 1-from eclipse");
+		System.out.println("Test 2-from web");
 		
 	}
 }
