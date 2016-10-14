@@ -19,5 +19,7 @@ public class Main {
 		System.out.println("Test 4-from web to test pull from upstream");
 		System.out.println("Test 5-from eclipse had to pull from upstream into current branch");
 		System.out.println("Test 7-from eclipse to test changes at two locations");		
+		System.out.println("Test 6-from web to test changes at two locations");
+		
 	}
 }
