@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("Test 1-from eclipse");
 		System.out.println("Test 2-from web");
 		System.out.println("Test 3-from eclipse after rebase");
+		System.out.println("Test 4-from web to test pull from upstream");
 		
 	}
 }
